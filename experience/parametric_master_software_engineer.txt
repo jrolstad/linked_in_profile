@@ -1,0 +1,12 @@
+Master Software Engineer
+
+September 2013
+
+Senior software developer, leader, and team manager responsible for directing Parametric's systems architecture, mentoring, and evangelizing of good practices across the organization.  I design or implement enterprise wide systems using technologies such as RabbitMQ, WCF, ASP.NET MVC, SQL Server, and Couchbase.  
+
+In addition to systems design, I mentor junior members of the organization and directly lead a team of 4-5 software developers and QA professionals responsible for producing high quality implementations of these systems.
+
+Believing that the hardest part about building good software is finding the right people, I have also built up highly coherent, effective teams while fostering a close relationship with the varying product owners.
+
+
+
