@@ -1,0 +1,11 @@
+Software Development Team Lead / Senior Software Engineer
+
+Greater Seattle Area
+
+November 2010 - Present
+
+Team Lead responsible for rapid delivery of mission critical applications to financial services professionals with a strong focus on emerging markets portfolio management and trading.  I lead a team of 4-5 software developers and QA professionals responsible for producing high quality software using .NET, C#, SQL Server, ASP.NET, ASP.NET MVC, Javascript, WCF, REST, and Powershell.  This work has allowed My employer to become highly productive in managing emerging markets funds and foreign trade execution.
+
+We use Agile practices such as TDD, BDD, Automated Testing, pairing, Kanban, Lean principles, and Scrum.  
+
+Leader in the development group always looking for new ways to improve the team’s methods and tools.
