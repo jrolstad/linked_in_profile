@@ -1,0 +1,7 @@
+Senior Credit Risk Software Developer
+
+August 2005 - July 2007
+
+Software Developer and Team Lead in an embedded software development team that developed a Counterparty Risk Management system using C#, ASP.NET, SQL Server, IIS, Windows Services, ASP.NET Web Services, and Java Message Beans.  This application was required to be highly available and required a high level of precision since it allowed the bank to accurately measure and manage its risk from other institutions.
+
+Worked in an agile environment and put a high priority on code quality, close business relationships, and fast turnaround.
