@@ -1,0 +1,7 @@
+Associate
+
+November 2000 - February 2002
+
+Responsible for the creation and maintenance of custom applications for mortage loan due diligence reviews using Visual Basic 6.0 and Sql Server
+
+Built reliable ETL processes to load client data and facilitate AdHoc reporting needs.  Provided technical support to field team, Project Management, and clients.
