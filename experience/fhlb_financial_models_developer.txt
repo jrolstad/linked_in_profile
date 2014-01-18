@@ -1,0 +1,7 @@
+Financial Models Developer
+
+December 2003 - August 2005
+
+Responsible for design, implementation and maintenance of a whole loan pricing service to support FHLB Seattle and other FHLB banks. This system required high availability and integration with real time Bloomberg and Reuters market data services to provide accurate prices the banks would use to buy loans with.  Used C#, ASP.NET, and SQL Server.
+
+Sole developer for a hedge analysis and forecasting application that integrated with other systems to determine the effectiveness of a hedge and forecast how it would perform in varying market conditions.
