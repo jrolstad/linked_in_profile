@@ -1,11 +1,11 @@
-Software Development Team Lead / Senior Software Engineer
+Senior Software Engineer
 
 Greater Seattle Area
 
-November 2010 - Present
+October 2008 - November 2010
 
-Team Lead responsible for rapid delivery of mission critical applications to financial services professionals with a strong focus on emerging markets portfolio management and trading.  I lead a team of 4-5 software developers and QA professionals responsible for producing high quality software using .NET, C#, SQL Server, ASP.NET, ASP.NET MVC, Javascript, WCF, REST, and Powershell.  This work has allowed My employer to become highly productive in managing emerging markets funds and foreign trade execution.
+Software Engineer responsible for rapid delivery of mission critical applications to financial services professionals using C#, SQL Server, ASP.NET, ASP.NET MVC, Javascript, WCF, REST, and Powershell.  Extensive experience integrating 3rd party systems such as Fidessa Latent Zero, Bloomberg Data License, Factset, S&P, and Advent. Experience integrating cloud computing services such as Amazon Web Services into new and legacy applications.  
 
-We use Agile practices such as TDD, BDD, Automated Testing, pairing, Kanban, Lean principles, and Scrum.  
+Used Powershell to automate daily activities, create fully autonomous integration tests, and create a framework to remotely deploy WCF services / ASP.NET Web applications.  
 
-Leader in the development group always looking for new ways to improve the team’s methods and tools.
+Integral in setup of Subversion SCM system and TeamCity continuous integration with Powershell scripts automating the entire project lifecycle from setup to teardown.
