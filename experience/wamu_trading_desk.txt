@@ -1,0 +1,7 @@
+Financial Systems Developer
+
+February 2002 - December 2003
+
+Sole developer for a proprietary trade execution and portfolo analysis software platform for the bank's Treasury department using C++, Visual Basic, Bloomberg API, and the Summit API.  
+
+Automated analytical needs, reporting, and audit checking used by the Fixed Income trading desk by combining disparate data sources.
